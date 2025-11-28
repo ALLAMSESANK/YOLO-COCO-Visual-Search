@@ -1,4 +1,4 @@
-[# YOLOv11 Visual Search Application
+# YOLOv11 Visual Search Application
 
 A fast and intelligent computer vision search system built using YOLOv11 and Streamlit.
 The application performs object detection, generates metadata, and enables smart searching across image collections based on classes and count thresholds.
